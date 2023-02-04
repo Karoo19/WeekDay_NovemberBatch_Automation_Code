@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-01T20:37:08 EST" name="Default suite" finished-at="2023-02-01T20:37:18 EST" duration-ms="9793">
+    <groups>
+    </groups>
+    <test started-at="2023-02-01T20:37:08 EST" name="Default test" finished-at="2023-02-01T20:37:18 EST" duration-ms="9793">
+      <class name="testNG_automation_code_feb_1st_2023.ClassAssignement">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:testNG_automation_code_feb_1st_2023.ClassAssignement@3cebbb30]" started-at="2023-02-01T20:37:08 EST" name="openBrowser" finished-at="2023-02-01T20:37:14 EST" duration-ms="5490" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="clickOnMyAccountLink()[pri:1, instance:testNG_automation_code_feb_1st_2023.ClassAssignement@3cebbb30]" started-at="2023-02-01T20:37:14 EST" name="clickOnMyAccountLink" finished-at="2023-02-01T20:37:14 EST" duration-ms="82" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnMyAccountLink -->
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:testNG_automation_code_feb_1st_2023.ClassAssignement@3cebbb30]" started-at="2023-02-01T20:37:14 EST" name="openBrowser" finished-at="2023-02-01T20:37:18 EST" duration-ms="3460" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="clickOnWishListLink()[pri:1, instance:testNG_automation_code_feb_1st_2023.ClassAssignement@3cebbb30]" started-at="2023-02-01T20:37:18 EST" name="clickOnWishListLink" finished-at="2023-02-01T20:37:18 EST" duration-ms="725" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnWishListLink -->
+      </class> <!-- testNG_automation_code_feb_1st_2023.ClassAssignement -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
