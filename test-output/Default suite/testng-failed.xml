@@ -3,13 +3,15 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="testng_automation_31st.GoingWiththeFlow">
+      <class name="Practice_Code_automation_Feb_1st.TestNGAssignement">
         <methods>
-          <include name="clickOnSignInLink"/>
-          <include name="openBrowser"/>
+          <include name="clickOnMyAccount"/>
+          <include name="LoginFunctionality"/>
+          <include name="logoutFunctionality"/>
           <include name="tearDown"/>
+          <include name="opentutorialsninjaWebsite"/>
         </methods>
-      </class> <!-- testng_automation_31st.GoingWiththeFlow -->
+      </class> <!-- Practice_Code_automation_Feb_1st.TestNGAssignement -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
