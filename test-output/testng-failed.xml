@@ -3,15 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Practice_Code_automation_Feb_1st.TestNGAssignement">
+      <class name="testng_hardvssoftassert_feb_7th.Rediff_Assert">
         <methods>
-          <include name="clickOnMyAccount"/>
-          <include name="LoginFunctionality"/>
-          <include name="logoutFunctionality"/>
-          <include name="tearDown"/>
-          <include name="opentutorialsninjaWebsite"/>
+          <include name="teardown"/>
+          <include name="launch"/>
+          <include name="validateLogOutPageTest"/>
         </methods>
-      </class> <!-- Practice_Code_automation_Feb_1st.TestNGAssignement -->
+      </class> <!-- testng_hardvssoftassert_feb_7th.Rediff_Assert -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
